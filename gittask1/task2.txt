@@ -1,4 +1,6 @@
 hi
 welcome 
 good morning
-happy to meet to you
+good afternoon
+good evening
+good night
